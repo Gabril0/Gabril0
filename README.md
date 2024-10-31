@@ -20,8 +20,6 @@ If you're interested in what I'm currently studying, I'm starting a blog about m
 - <img src="https://github.com/Gabril0/libgdxGame/assets/62163345/fb1e193a-d036-4efb-a6f9-71d2d204b9c2" alt="Astro-Oddity Logo" width="32" height="32"/> Released 3 small games, most of them made in less than 3 months!
 
 #### Known Technologies 💻
-COLOCAR UM REPOSITORIO QUE MOSTRE CADA COMPETENCIA
-
 <p>
   <span style="display: inline-block; margin-right: 1px;">
     <a href="https://github.com/ArthurHSouza/GaelThroughDimensions"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#"></a>
