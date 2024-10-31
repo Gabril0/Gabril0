@@ -2,7 +2,7 @@
 
 Hello, I'm Gabriel Crepaldi, a student from Universidade Federal de Uberlândia (UFU). <a href="https://www.ufu.br"><img src="Ufu_logo.png" alt="UFU logo" width="32" height="32"/></a>
 If you're interested in what I'm currently studying, I'm starting a blog about my studies and hobbies:
-[Link](https://chiseled-lantana-ef4.notion.site/Gabri0-1300f49239cc80c6b557f0f8bec28e76?pvs=4)
+[Blog Link](https://chiseled-lantana-ef4.notion.site/Gabri0-1300f49239cc80c6b557f0f8bec28e76?pvs=4)
 
 #### Currently studying 📚
 
@@ -74,9 +74,11 @@ COLOCAR UM REPOSITORIO QUE MOSTRE CADA COMPETENCIA
   </span>
 </p>
 
-#### Cool Things I've Done 🌟
+#### Cool Things I've Done / am doing 🌟
 
-- Created the "Astro Oddity" GIF
+- Astro Oddity game
 <a href="https://github.com/Gabril0/Astro-Oddity">![Astro Oddity Gameplay](Astro_Oddity_zfzNw87GPM.gif)</a>
+- Neural Network Training
 <a href="https://github.com/Gabril0/CNN">![Attention Unet Learning process with GradCam](CNN.gif)</a>
+- Water system for Gael Through Dimensions game
 <a href="https://github.com/ArthurHSouza/GaelThroughDimensions">![alt text](Unity_36UyNlaFgO.gif)</a>
