@@ -1,6 +1,6 @@
 ### Welcome!! 👋
 
-Hello, I'm Gabriel Crepaldi, a student from Universidade Federal de Uberlândia (UFU) <a href="https://www.ufu.br"><img src="Ufu_logo.png" alt="UFU logo" width="32" height="32"/></a>. 
+Hello, I'm Gabriel Crepaldi, a student from Universidade Federal de Uberlândia (UFU) <a href="https://www.ufu.br"><img src="Ufu_logo.png" alt="UFU logo" width="20" height="20"/></a>. 
 If you're interested in what I'm currently studying, I'm starting a blog about my studies and hobbies:
 [Blog Link](https://chiseled-lantana-ef4.notion.site/Gabri0-1300f49239cc80c6b557f0f8bec28e76?pvs=4)
 
