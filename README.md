@@ -4,7 +4,7 @@ Hello, I'm Gabriel Crepaldi, a student from Universidade Federal de Uberlândia 
 If you're interested in what I'm currently studying, I'm starting a blog about my studies and hobbies:
 [Blog Link](https://chiseled-lantana-ef4.notion.site/Gabri0-1300f49239cc80c6b557f0f8bec28e76?pvs=4)
 
-#### Currently studying 📚
+#### Currently studying ( •̀ ω •́ )y
 
 - 🧠 Neural Networks for Image Segmentation (Undergraduate Research/Scientific Initiation)
 - 👾 Developing of games in Unity with a team of more than 10 people (Extension Project)
@@ -12,14 +12,14 @@ If you're interested in what I'm currently studying, I'm starting a blog about m
 - 🔢 Graphics Programming
 - 🖼️ Image Processing
 
-#### Accomplishments 🏆
+#### Accomplishments (o゜▽゜)o☆
 
 - 🔡 C1 English level (CAE)
 - 🎓 Worked as paid Monitor at UFU for OOP classes
 - 🧑‍🏫 Presented lectures about Game Development at UFU
 - <img src="https://github.com/Gabril0/libgdxGame/assets/62163345/fb1e193a-d036-4efb-a6f9-71d2d204b9c2" alt="Astro-Oddity Logo" width="20" height="20"/> Released 3 small games, most of them made in less than 3 months!
 
-#### Known Technologies 💻
+#### Known Technologies (oﾟvﾟ)ノ
 <p>
   <span style="display: inline-block; margin-right: 1px;">
     <a href="https://github.com/ArthurHSouza/GaelThroughDimensions"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#"></a>
@@ -59,7 +59,7 @@ If you're interested in what I'm currently studying, I'm starting a blog about m
   </span>
 </p>
 
-#### Contact me 🤝
+#### Contact me ヾ(•ω•`)o
 <p>
   <span style="display: inline-block; margin-right: 1px;">
     <a href="https://wa.me/+5134992157006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
