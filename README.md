@@ -72,7 +72,7 @@ If you're interested in what I'm currently studying, I'm starting a blog about m
   </span>
 </p>
 
-#### Cool Things I've Done / am doing 🌟
+#### Cool Things I've Done / am doing o(*￣▽￣*)o
 
 - Astro Oddity game
 <a href="https://github.com/Gabril0/Astro-Oddity">![Astro Oddity Gameplay](Astro_Oddity_zfzNw87GPM.gif)</a>
