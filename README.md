@@ -9,8 +9,9 @@ production environments and academic research. I currently build financial
 systems at Kanastra, one of Brazil's leading fintechs, and I have a background
 that spans distributed backends, machine learning research, and game development.
 
-I write about my studies and side projects here:
-[Blog](https://chiseled-lantana-ef4.notion.site/Gabri0-1300f49239cc80c6b557f0f8bec28e76?pvs=4)
+I write about my studies and side projects on my blog:
+[gabril0.github.io](https://gabril0.github.io)
+(my older notes live on my [previous Notion blog](https://chiseled-lantana-ef4.notion.site/Gabri0-1300f49239cc80c6b557f0f8bec28e76?pvs=4))
 
 #### What I do  (￣^￣)ゞ
 
@@ -29,7 +30,6 @@ I write about my studies and side projects here:
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
